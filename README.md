@@ -4,8 +4,8 @@
 
 # 👋 Hi there!  
 
-I am a **highly motivated data enthusiast** with a strong passion for using data to support business growth and smart decision-making.  
-With over **a year of experience** in data analytics through self-learning and hands-on projects, I've built strong skills in:
+I am a highly motivated data enthusiast with a strong passion for using data to support business growth and smart decision-making.  
+With over a year of experience in data analytics through self-learning and hands-on projects, I've built strong skills in:
 
 - 📊 **Excel** (Data cleaning, VLOOKUP, PivotTables)  
 - 📈 **Power BI** (Dashboards, Visual storytelling, DAX)  
