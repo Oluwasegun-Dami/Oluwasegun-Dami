@@ -26,9 +26,6 @@ I’m excited to continue growing, collaborating, and making a real impact throu
 
 ---
 
-## 🌟 Featured Project  
-**[Telco Customer Churn Analysis 🔗](https://github.com/Oluwasegun-Dami/Telco-Customer-Churn-Analysis/blob/main/Dashboard.jpeg)**  
-*Dashboard exploring key reasons why telecom customers leave and how to improve retention.*
 
 ---
 
